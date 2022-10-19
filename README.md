@@ -32,7 +32,6 @@
   
 ---
 
-<img style="height: auto; width: 40%;" src="https://github-readme-streak-stats.herokuapp.com/?user=WillGarman&theme=original" alt="WillGarman" />
 
 
 ### My Technologies
@@ -66,6 +65,14 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   </div>
-</div>
-</div>
+  
+ --- 
  
+ ### My Stats
+ 
+ <div class='container'>
+  <img style="height: auto; width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=WillGarman" alt="WillGarman" />
+  <img style="height: auto; width: 49%;" src='https://github-readme-stats.vercel.app/api?username=WillGarman&show_icons=true&hide=["stars"]'/>
+</div>
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WillGarman&langs_count=10&show_icons=true&locale=en" alt="original" height="192px"/> -->
