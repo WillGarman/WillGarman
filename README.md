@@ -68,11 +68,13 @@
   
  --- 
  
- ### My Stats
+ ### :fire: My Stats
  
  <div class='container'>
   <img style="height: auto; width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=WillGarman" alt="WillGarman" />
   <img style="height: auto; width: 49%;" src='https://github-readme-stats.vercel.app/api?username=WillGarman&show_icons=true&hide=["stars"]'/>
 </div>
+
+---
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WillGarman&langs_count=10&show_icons=true&locale=en" alt="original" height="192px"/> -->
