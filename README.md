@@ -25,7 +25,7 @@
 
 
 
-- :trophy: **State Champion** KY STLP Coding Challenge 2021
+- :trophy: **State Champion** KY STLP Coding Challenge 2022
 - :student: I’m currently a freshman majoring in: `Computer Science`.
 - :thinking: I’m currently open for a `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/1x7xV8RUNEzTALEDx6dmeayKW4qzFWQ5Tvw230QlQVes/edit?usp=sharing).
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-WillGarman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/will-garman/)
