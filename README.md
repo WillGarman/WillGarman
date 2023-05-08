@@ -71,8 +71,8 @@
  ### :fire: My Stats
  
  <div class='container'>
-  <img style="height: auto; width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=WillGarman" alt="WillGarman" />
-  <img style="height: auto; width: 49%;" src='https://github-readme-stats.vercel.app/api?username=WillGarman&show_icons=true&hide=["stars"]'/>
+  <img style="height: auto; width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=WillGarman&theme=transparent" alt="WillGarman" />
+  <img style="height: auto; width: 49%;" src='https://github-readme-stats.vercel.app/api?username=WillGarman&show_icons=true&theme=transparent'/>
 </div>
 
 ---
