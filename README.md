@@ -22,15 +22,10 @@
    
 
  ### :man_technologist: About Me
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in the United States. (Fun fact, I was born in Iceland <img src="https://media.giphy.com/media/i3LejVnU3cqGW2NrVb/giphy.gif" width="30" height="30">)
-  - :telescope: I’m working as a Web Developer doing around 70% front end and 30% backend.
-
-  - :zap: In my free time, I do my dreaded school work <img src="https://media.giphy.com/media/xUNemL2Yrwl6IoYWFa/giphy.gif" width="30"> But also work on personal projects <img src="https://media.giphy.com/media/cCOVfFwDI3awdse5A3/giphy.gif" width="30">
-
-
+  I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in the United States. (Fun fact, I was born in Iceland <img src="https://media.giphy.com/media/i3LejVnU3cqGW2NrVb/giphy.gif" width="30" height="30">)
+  - :telescope: Web Developer doing around 70% front end and 30% backend.
 
 - :trophy: **State Champion** KY STLP Coding Challenge 2022
-- :student: I’m currently a freshman majoring in: `Computer Science`.
 <!-- - :thinking: I’m currently open for a `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/1x7xV8RUNEzTALEDx6dmeayKW4qzFWQ5Tvw230QlQVes/edit?usp=sharing). -->
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-WillGarman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/will-garman/)
   
