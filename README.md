@@ -2,9 +2,9 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/willgarman/count.svg?"  />
-</div>
+</div> -->
 
 ###
 
