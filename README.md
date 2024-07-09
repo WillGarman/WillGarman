@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋 I'm Will<br> taking ideas from 0 → 1, zero → hero, you get it</h1>
+<h1 align="center">Hi👋 I'm Will<br> building 0 → 1, zero → hero, you get it</h1>
 
 <div align=center>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
